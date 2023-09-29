@@ -1,3 +1,5 @@
+https://github.com/rendystdy/notesapp/assets/38721228/e490faae-4626-4bac-8ec2-f3d4e428a315
+
 
 # React Native Skeleton
 
